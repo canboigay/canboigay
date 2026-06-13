@@ -1,8 +1,12 @@
 # Simeon Garratt
 
-I co-founded Spark RE Technologies (proptech, 80+ cities), then left to build security and AI tools with worse margins and more interesting problems.
+I co-founded Spark RE Technologies (proptech, 80+ cities), then left to focus on building autonomous intelligence and security research.
 
 Website: https://simeongarratt.com
+
+## Focus
+- **AI Architect** — designing cognitive orchestration meshes and multi-agent systems.
+- **Cybersecurity Researcher** — specializing in autonomous security testing and threat intelligence.
 
 ## Building
 - **SCAFU** — security testing that coordinates a stack of scanners through agents instead of one tired human running tools by hand. Reads the tech stack, aims accordingly, plugs into CI/CD.
